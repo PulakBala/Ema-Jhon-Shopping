@@ -26,7 +26,7 @@ const Orders = () => {
     }
 
     return (
-        <div >
+        <div className='bg'>
            <div className='shop-container'>
            <div className="orders-container">
                 {

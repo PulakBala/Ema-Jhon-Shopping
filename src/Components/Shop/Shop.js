@@ -97,7 +97,7 @@ useEffect(() =>{
  
 
   return (
-    <div>
+    <div className="bg">
       <div className="shop-container">
 
         {/* product container ----------------------- */}

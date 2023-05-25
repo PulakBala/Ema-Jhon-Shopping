@@ -31,8 +31,8 @@ const Login = () => {
   };
 
   return (
-    <div>
-      <div className="form-container bg-dark text-white " style={{ height: "500px" }}>
+    <div className="">
+      <div className="form-container text-white " style={{ height: "500px" }}>
         <br/>
         <h2 className="form-title text-white me-5">Login</h2>
         <form onSubmit={handleSubmit}>

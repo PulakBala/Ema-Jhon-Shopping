@@ -27,13 +27,13 @@ const Footer = () => {
               <p>Stay connected on social media:</p>
               <ul className="list-inline">
                 <li className="list-inline-item">
-                  <a href='https://www.facebook.com/gmmahi698'>Facebook</a>
+                <a href='https://www.facebook.com/gmmahi698'>Facebook</a>
                 </li>
                 <li className="list-inline-item">
-                  <a href='https://twitter.com/MahiGolam'>Twitter</a>
+                <a href='https://twitter.com/MahiGolam'>Twitter</a>
                 </li>
                 <li className="list-inline-item">
-                  <a href='https://instagram.com/gmmahi01?igshid=NTc4MTIwNjQ2YQ=='>Instagram</a>
+                <a href='https://instagram.com/gmmahi01?igshid=NTc4MTIwNjQ2YQ=='>Instagram</a>
                 </li>
               </ul>
             </Col>

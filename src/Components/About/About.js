@@ -9,7 +9,7 @@ import Footer from "../Footer/Footer";
 const About = () => {
   useTitle('About');
   return (
-    <section className="bg-light pt-5">
+    <section className="bg  pt-5">
       <Container>
         <Row>
           <Col className="bg shadow rounded" md={6}>
